@@ -59,7 +59,7 @@ flowchart TB
     Platform --> Core
 ```
 
-如果 Mermaid 无法渲染，也可以用以下文本描述：
+如果 Mermaid 无法渲染，以下文本描述：
 
 - **平台适配层**：Windows、Android、iOS / iPadOS、HarmonyOS
 - **统一核心引擎**：字符串加密、控制流改写、完整性校验、Unicode 私有区命名
